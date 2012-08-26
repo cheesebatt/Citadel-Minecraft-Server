@@ -1,0 +1,1 @@
+javaw -Xmx2G -Xms2G -jar "Minecraft_Server.exe"
