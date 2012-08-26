@@ -1,1 +1,3 @@
-*.exe #don't want to copy the server application
+#don't want to copy the server application
+*.exe 
+Minecraft_Server.exe
