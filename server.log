@@ -20,3 +20,92 @@
 2012-08-26 17:34:20 [INFO] Saving chunks for level 'world'/Overworld
 2012-08-26 17:34:20 [INFO] Saving chunks for level 'world'/Nether
 2012-08-26 17:34:20 [INFO] Saving chunks for level 'world'/The End
+2012-08-26 17:35:47 [INFO] Starting minecraft server version 1.3.2
+2012-08-26 17:35:47 [INFO] Loading properties
+2012-08-26 17:35:47 [INFO] Default game type: SURVIVAL
+2012-08-26 17:35:47 [INFO] Generating keypair
+2012-08-26 17:35:47 [INFO] Starting Minecraft server on *:25565
+2012-08-26 17:35:47 [INFO] Preparing level "world"
+2012-08-26 17:35:47 [INFO] Preparing start region for level 0
+2012-08-26 17:35:47 [INFO] Done (0.513s)! For help, type "help" or "?"
+2012-08-26 17:35:57 [INFO] /127.0.0.1:52561 lost connection
+2012-08-26 17:36:11 [INFO] svanderlugt[/127.0.0.1:52563] logged in with entity id 3469 at (-272.5, 65.62000000476837, 211.5)
+2012-08-26 17:37:12 [INFO] --- Showing help page 1 of 5 (/help <page>) ---
+2012-08-26 17:37:12 [INFO] /ban <name> [reason ...]
+2012-08-26 17:37:12 [INFO] /ban-ip <address|name> [reason ...]
+2012-08-26 17:37:12 [INFO] /banlist [ips|players]
+2012-08-26 17:37:12 [INFO] /debug
+2012-08-26 17:37:12 [INFO] /defaultgamemode <mode>
+2012-08-26 17:37:12 [INFO] /deop <player>
+2012-08-26 17:37:12 [INFO] /gamemode <mode> [player]
+2012-08-26 17:37:21 [INFO] Usage: /debug <start|stop>
+2012-08-26 17:38:28 [INFO] cheesebatt[/141.219.226.235:51005] logged in with entity id 6584 at (-265.5, 65.62000000476837, 208.5)
+2012-08-26 17:50:00 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-08-26 17:52:13 [INFO] cheesebatt[/141.219.226.235:51364] logged in with entity id 20826 at (-166.7170933995257, 63.0, 204.22416183622857)
+2012-08-26 18:00:17 [INFO] <cheesebatt> what the hell r u doing?
+2012-08-26 18:04:00 [INFO] <cheesebatt> come here
+2012-08-26 18:11:31 [INFO] cheesebatt lost connection: disconnect.genericReason
+2012-08-26 19:03:48 [INFO] cheesebatt[/141.219.226.235:49294] logged in with entity id 97550 at (-187.48565283832292, 63.0, 171.52202319721692)
+2012-08-26 19:22:40 [INFO] <svanderlugt> where are you?
+2012-08-26 19:23:33 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-08-26 19:25:12 [INFO] cheesebatt[/141.219.226.235:49680] logged in with entity id 128194 at (-161.5, 61.021598472595215, 202.5)
+2012-08-26 19:25:27 [INFO] <cheesebatt> i can't get my skin to work :(
+2012-08-26 19:31:10 [INFO] <cheesebatt> u might want to force a server save at some point
+2012-08-26 19:31:27 [INFO] <svanderlugt> how?
+2012-08-26 19:31:33 [INFO] <cheesebatt> save
+2012-08-26 19:32:00 [INFO] <cheesebatt> idk
+2012-08-26 19:34:23 [INFO] --- Showing help page 1 of 5 (/help <page>) ---
+2012-08-26 19:34:23 [INFO] /ban <name> [reason ...]
+2012-08-26 19:34:23 [INFO] /ban-ip <address|name> [reason ...]
+2012-08-26 19:34:23 [INFO] /banlist [ips|players]
+2012-08-26 19:34:23 [INFO] /debug
+2012-08-26 19:34:23 [INFO] /defaultgamemode <mode>
+2012-08-26 19:34:23 [INFO] /deop <player>
+2012-08-26 19:34:23 [INFO] /gamemode <mode> [player]
+2012-08-26 19:34:35 [INFO] --- Showing help page 1 of 5 (/help <page>) ---
+2012-08-26 19:34:35 [INFO] /ban <name> [reason ...]
+2012-08-26 19:34:35 [INFO] /ban-ip <address|name> [reason ...]
+2012-08-26 19:34:35 [INFO] /banlist [ips|players]
+2012-08-26 19:34:35 [INFO] /debug
+2012-08-26 19:34:35 [INFO] /defaultgamemode <mode>
+2012-08-26 19:34:35 [INFO] /deop <player>
+2012-08-26 19:34:35 [INFO] /gamemode <mode> [player]
+2012-08-26 19:34:40 [INFO] --- Showing help page 2 of 5 (/help <page>) ---
+2012-08-26 19:34:40 [INFO] /give <player> <item> [amount] [data]
+2012-08-26 19:34:40 [INFO] /help [page|command name]
+2012-08-26 19:34:40 [INFO] /kick <player> [reason ...]
+2012-08-26 19:34:40 [INFO] /kill
+2012-08-26 19:34:40 [INFO] /list
+2012-08-26 19:34:40 [INFO] /me <action ...>
+2012-08-26 19:34:40 [INFO] /op <player>
+2012-08-26 19:34:57 [INFO] Unknown command. Try /help for a list of commands.
+2012-08-26 19:35:02 [INFO] --- Showing help page 3 of 5 (/help <page>) ---
+2012-08-26 19:35:02 [INFO] /pardon <name>
+2012-08-26 19:35:02 [INFO] /pardon-ip <address>
+2012-08-26 19:35:02 [INFO] /save-all
+2012-08-26 19:35:02 [INFO] /save-off
+2012-08-26 19:35:02 [INFO] /save-on
+2012-08-26 19:35:02 [INFO] /say <message ...>
+2012-08-26 19:35:02 [INFO] /seed
+2012-08-26 19:35:14 [INFO] Turned on world auto-saving
+2012-08-26 19:35:19 [INFO] --- Showing help page 4 of 5 (/help <page>) ---
+2012-08-26 19:35:19 [INFO] /stop
+2012-08-26 19:35:19 [INFO] /tell
+2012-08-26 19:35:19 [INFO] /time <set|add> <value>
+2012-08-26 19:35:19 [INFO] /toggledownfall
+2012-08-26 19:35:19 [INFO] /tp [target player] <destination player> OR /tp [target player] <x> <y> <z>
+2012-08-26 19:35:19 [INFO] /whitelist <on|off|list|add|remove|reload>
+2012-08-26 19:35:19 [INFO] /xp <amount> [player]
+2012-08-26 19:35:49 [INFO] --- Showing help page 5 of 5 (/help <page>) ---
+2012-08-26 19:37:11 [INFO] <svanderlugt> wanna gather some wood and build a pen for pigs?
+2012-08-26 19:37:22 [INFO] <cheesebatt> sure
+2012-08-26 19:40:57 [INFO] <cheesebatt> there has to be a zombi spawner over there
+2012-08-26 19:45:38 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-08-26 19:45:44 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-08-26 19:45:56 [INFO] Stopping the server
+2012-08-26 19:45:56 [INFO] Stopping server
+2012-08-26 19:45:56 [INFO] Saving players
+2012-08-26 19:45:56 [INFO] Saving worlds
+2012-08-26 19:45:56 [INFO] Saving chunks for level 'world'/Overworld
+2012-08-26 19:45:56 [INFO] Saving chunks for level 'world'/Nether
+2012-08-26 19:45:56 [INFO] Saving chunks for level 'world'/The End
