@@ -336,3 +336,64 @@
 2012-09-01 01:55:13 [INFO] Saving chunks for level 'world'/Overworld
 2012-09-01 01:55:13 [INFO] Saving chunks for level 'world'/Nether
 2012-09-01 01:55:13 [INFO] Saving chunks for level 'world'/The End
+2012-09-01 10:43:13 [INFO] Starting minecraft server version 1.3.2
+2012-09-01 10:43:13 [INFO] Loading properties
+2012-09-01 10:43:13 [INFO] Default game type: SURVIVAL
+2012-09-01 10:43:13 [INFO] Generating keypair
+2012-09-01 10:43:13 [INFO] Starting Minecraft server on *:25565
+2012-09-01 10:43:13 [INFO] Preparing level "world"
+2012-09-01 10:43:13 [INFO] Preparing start region for level 0
+2012-09-01 10:43:13 [INFO] Done (0.589s)! For help, type "help" or "?"
+2012-09-01 10:43:47 [INFO] /127.0.0.1:52908 lost connection
+2012-09-01 10:43:49 [INFO] svanderlugt[/127.0.0.1:52910] logged in with entity id 691 at (-326.5, 67.02159847259522, 261.5)
+2012-09-01 10:44:48 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-01 10:45:00 [INFO] Stopping the server
+2012-09-01 10:45:00 [INFO] Stopping server
+2012-09-01 10:45:00 [INFO] Saving players
+2012-09-01 10:45:00 [INFO] Saving worlds
+2012-09-01 10:45:00 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-01 10:45:00 [INFO] Saving chunks for level 'world'/Nether
+2012-09-01 10:45:00 [INFO] Saving chunks for level 'world'/The End
+2012-09-01 11:11:13 [INFO] Starting minecraft server version 1.3.2
+2012-09-01 11:11:13 [INFO] Loading properties
+2012-09-01 11:11:13 [INFO] Default game type: SURVIVAL
+2012-09-01 11:11:13 [INFO] Generating keypair
+2012-09-01 11:11:14 [INFO] Starting Minecraft server on *:25565
+2012-09-01 11:11:14 [INFO] Preparing level "world"
+2012-09-01 11:11:14 [INFO] Preparing start region for level 0
+2012-09-01 11:11:14 [INFO] Done (0.500s)! For help, type "help" or "?"
+2012-09-01 11:11:19 [INFO] svanderlugt[/127.0.0.1:53958] logged in with entity id 689 at (-341.8848169359227, 67.0, 247.58116811982774)
+2012-09-01 11:13:20 [INFO] cheesebatt[/141.219.226.235:49822] logged in with entity id 2150 at (-160.8863314624008, 61.0, 202.30000001192093)
+2012-09-01 11:28:19 [INFO] Set the time to 0
+2012-09-01 11:41:53 [INFO] <svanderlugt> we sleepin?
+2012-09-01 11:42:01 [INFO] <cheesebatt> sure give me a sec
+2012-09-01 11:55:55 [INFO] <cheesebatt> see it?
+2012-09-01 11:56:08 [INFO] <svanderlugt> I think so, what is it?
+2012-09-01 11:56:14 [INFO] <cheesebatt> a pyramid
+2012-09-01 11:59:42 [INFO] <cheesebatt> thats about it
+2012-09-01 11:59:49 [INFO] <cheesebatt> we need to dig to get goodies
+2012-09-01 11:59:54 [INFO] <svanderlugt> where
+2012-09-01 12:00:01 [INFO] <cheesebatt> not in the middle
+2012-09-01 12:24:38 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-01 12:31:47 [INFO] cheesebatt[/141.219.226.235:49942] logged in with entity id 131889 at (-162.51654558660204, 61.0, 202.30000001192093)
+2012-09-01 13:37:06 [INFO] Set the time to 0
+2012-09-01 13:48:04 [WARNING] cheesebatt moved wrongly!
+2012-09-01 14:27:31 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-01 14:51:38 [INFO] cheesebatt[/141.219.226.235:50179] logged in with entity id 354866 at (-160.46908345557458, 61.0, 202.69999998807907)
+2012-09-01 15:43:28 [INFO] <cheesebatt> i haz a gift
+2012-09-01 15:43:35 [INFO] <svanderlugt> oh oh oh what is it?
+2012-09-01 15:44:03 [INFO] <cheesebatt> 11 x64 cobblestone
+2012-09-01 15:44:12 [INFO] <svanderlugt> yay! thank you!
+2012-09-01 15:44:16 [INFO] <cheesebatt> ypu
+2012-09-01 15:44:18 [INFO] <svanderlugt> anything you are looking for?
+2012-09-01 15:44:21 [INFO] <cheesebatt> yup*
+2012-09-01 15:44:24 [INFO] <cheesebatt> not right now
+2012-09-01 16:00:25 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-01 16:00:33 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-01 16:00:36 [INFO] Stopping the server
+2012-09-01 16:00:36 [INFO] Stopping server
+2012-09-01 16:00:36 [INFO] Saving players
+2012-09-01 16:00:36 [INFO] Saving worlds
+2012-09-01 16:00:36 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-01 16:00:36 [INFO] Saving chunks for level 'world'/Nether
+2012-09-01 16:00:36 [INFO] Saving chunks for level 'world'/The End
