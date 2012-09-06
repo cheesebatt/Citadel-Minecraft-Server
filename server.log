@@ -420,3 +420,115 @@
 2012-09-01 19:52:36 [INFO] Saving chunks for level 'world'/Overworld
 2012-09-01 19:52:36 [INFO] Saving chunks for level 'world'/Nether
 2012-09-01 19:52:36 [INFO] Saving chunks for level 'world'/The End
+2012-09-01 19:57:03 [INFO] Starting minecraft server version 1.3.2
+2012-09-01 19:57:04 [INFO] Loading properties
+2012-09-01 19:57:04 [INFO] Default game type: SURVIVAL
+2012-09-01 19:57:04 [INFO] Generating keypair
+2012-09-01 19:57:04 [INFO] Starting Minecraft server on *:25565
+2012-09-01 19:57:04 [INFO] Preparing level "world"
+2012-09-01 19:57:04 [INFO] Preparing start region for level 0
+2012-09-01 19:57:04 [INFO] Done (0.585s)! For help, type "help" or "?"
+2012-09-01 19:57:14 [INFO] /127.0.0.1:49286 lost connection
+2012-09-01 19:57:16 [INFO] svanderlugt[/127.0.0.1:49288] logged in with entity id 704 at (-354.0423857444737, 68.0, 229.56119008191828)
+2012-09-01 20:27:08 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-01 20:27:13 [INFO] Stopping the server
+2012-09-01 20:27:13 [INFO] Stopping server
+2012-09-01 20:27:13 [INFO] Saving players
+2012-09-01 20:27:13 [INFO] Saving worlds
+2012-09-01 20:27:13 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-01 20:27:13 [INFO] Saving chunks for level 'world'/Nether
+2012-09-01 20:27:13 [INFO] Saving chunks for level 'world'/The End
+2012-09-02 11:28:30 [INFO] Starting minecraft server version 1.3.2
+2012-09-02 11:28:30 [INFO] Loading properties
+2012-09-02 11:28:30 [INFO] Default game type: SURVIVAL
+2012-09-02 11:28:30 [INFO] Generating keypair
+2012-09-02 11:28:30 [INFO] Starting Minecraft server on *:25565
+2012-09-02 11:28:30 [INFO] Preparing level "world"
+2012-09-02 11:28:30 [INFO] Preparing start region for level 0
+2012-09-02 11:28:31 [INFO] Done (0.616s)! For help, type "help" or "?"
+2012-09-02 11:28:49 [INFO] /127.0.0.1:49296 lost connection
+2012-09-02 11:28:51 [INFO] svanderlugt[/127.0.0.1:49300] logged in with entity id 710 at (-358.5, 68.0, 226.5)
+2012-09-02 11:40:02 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-02 15:51:06 [INFO] svanderlugt[/127.0.0.1:52841] logged in with entity id 12316 at (-358.5, 68.02159847259522, 226.5)
+2012-09-02 16:07:24 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-02 16:33:46 [INFO] cheesebatt[/141.219.226.235:53714] logged in with entity id 29390 at (-161.5, 61.021598472595215, 202.5)
+2012-09-02 16:42:22 [INFO] svanderlugt[/127.0.0.1:53512] logged in with entity id 38619 at (-338.7028974255935, 64.0, 306.0989044726344)
+2012-09-02 16:42:46 [INFO] <cheesebatt> food?
+2012-09-02 16:42:53 [INFO] <svanderlugt> I already ate
+2012-09-02 16:42:58 [INFO] <cheesebatt> i know weirdo
+2012-09-02 16:43:11 [INFO] <svanderlugt> I was fucking hungry
+2012-09-02 16:43:16 [INFO] <cheesebatt> lol
+2012-09-02 16:58:18 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-02 18:29:18 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-02 22:48:18 [INFO] svanderlugt[/127.0.0.1:58632] logged in with entity id 164798 at (-357.0069293273631, 68.0, 231.18392423020362)
+2012-09-02 23:50:10 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-03 13:33:09 [INFO] svanderlugt[/127.0.0.1:55957] logged in with entity id 216001 at (-356.29172630415553, 68.0, 226.47247709233596)
+2012-09-03 13:37:26 [INFO] cheesebatt[/141.219.226.235:49679] logged in with entity id 219331 at (-162.87051939207942, 61.0, 201.52138127163914)
+2012-09-03 13:38:19 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-03 13:38:21 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-03 13:38:25 [INFO] Stopping the server
+2012-09-03 13:38:25 [INFO] Stopping server
+2012-09-03 13:38:25 [INFO] Saving players
+2012-09-03 13:38:25 [INFO] Saving worlds
+2012-09-03 13:38:25 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-03 13:38:25 [INFO] Saving chunks for level 'world'/Nether
+2012-09-03 13:38:25 [INFO] Saving chunks for level 'world'/The End
+2012-09-03 13:39:40 [INFO] Starting minecraft server version 1.3.2
+2012-09-03 13:39:40 [INFO] Loading properties
+2012-09-03 13:39:40 [INFO] Default game type: SURVIVAL
+2012-09-03 13:39:40 [INFO] Generating keypair
+2012-09-03 13:39:40 [INFO] Starting Minecraft server on *:25565
+2012-09-03 13:39:40 [INFO] Preparing level "world"
+2012-09-03 13:39:40 [INFO] Preparing start region for level 0
+2012-09-03 13:39:40 [INFO] Done (0.619s)! For help, type "help" or "?"
+2012-09-03 13:39:59 [INFO] svanderlugt[/127.0.0.1:49294] logged in with entity id 727 at (-346.9601083790925, 68.0, 238.7581120986842)
+2012-09-03 13:41:32 [INFO] cheesebatt[/141.219.226.235:49697] logged in with entity id 2448 at (-162.30000001192093, 61.0, 202.44987412009186)
+2012-09-03 14:05:06 [INFO] <cheesebatt> go the fuck to sleep
+2012-09-03 14:17:37 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-03 14:25:49 [INFO] cheesebatt[/141.219.226.235:49829] logged in with entity id 67933 at (23.5, 71.02159847259522, 155.5)
+2012-09-03 15:15:03 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-03 15:15:06 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-03 18:35:51 [INFO] cheesebatt[/141.219.226.235:52190] logged in with entity id 154136 at (6.5300248510336045, 71.0, 151.57188344623614)
+2012-09-03 19:14:15 [INFO] svanderlugt[/127.0.0.1:56277] logged in with entity id 214702 at (-404.9733839597965, 64.0, 238.09471609133524)
+2012-09-03 20:03:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-09-03 20:38:18 [INFO] svanderlugt lost connection: disconnect.genericReason
+2012-09-03 20:38:31 [INFO] svanderlugt[/127.0.0.1:57587] logged in with entity id 363908 at (-358.5, 68.0999984741211, 226.5)
+2012-09-03 21:03:23 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-03 21:03:53 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-04 13:00:35 [INFO] /127.0.0.1:62503 lost connection
+2012-09-04 13:00:37 [INFO] svanderlugt[/127.0.0.1:62507] logged in with entity id 409025 at (26.29674830728236, 71.0, 157.69999998807907)
+2012-09-04 13:04:25 [INFO] cheesebatt[/141.219.226.235:49809] logged in with entity id 416501 at (22.5096267865097, 71.0, 150.71759333215152)
+2012-09-04 13:23:31 [INFO] <cheesebatt> found npc's
+2012-09-04 13:23:37 [INFO] <svanderlugt> where
+2012-09-04 13:23:41 [INFO] <cheesebatt> here
+2012-09-04 13:40:03 [INFO] <cheesebatt> ven aqui
+2012-09-04 13:41:23 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-04 14:01:17 [INFO] cheesebatt[/141.219.226.235:50213] logged in with entity id 524899 at (-162.59131443908612, 61.0, 202.11005535923772)
+2012-09-04 14:18:53 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-04 14:50:05 [INFO] cheesebatt[/141.219.226.235:50434] logged in with entity id 567603 at (-161.5, 61.099998474121094, 202.5)
+2012-09-04 14:57:20 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-04 15:00:54 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-04 22:18:44 [INFO] svanderlugt[/127.0.0.1:56407] logged in with entity id 587567 at (-505.44686955505995, 63.0, -109.69999998807907)
+2012-09-04 23:45:36 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-05 12:42:04 [INFO] Player [/141.219.226.235:55790] lost connection
+2012-09-05 12:42:23 [INFO] Player [/141.219.226.235:55800] lost connection
+2012-09-05 14:03:48 [INFO] svanderlugt[/127.0.0.1:52390] logged in with entity id 653285 at (-355.69999998807907, 68.0, 227.7745955991213)
+2012-09-05 15:51:30 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-05 19:48:13 [INFO] svanderlugt[/127.0.0.1:59627] logged in with entity id 783570 at (-334.3997816256146, 68.0, 235.25198101133597)
+2012-09-05 19:49:22 [INFO] cheesebatt[/141.219.226.235:56953] logged in with entity id 784402 at (23.5, 71.02159847259522, 155.5)
+2012-09-05 20:01:00 [INFO] <svanderlugt> we ready?
+2012-09-05 20:07:58 [INFO] <cheesebatt> bedtime
+2012-09-05 20:13:08 [INFO] <svanderlugt> 5 iron
+2012-09-05 20:17:24 [INFO] <cheesebatt> ok what in the actuall fuck are you doing?
+2012-09-05 20:17:28 [INFO] <svanderlugt> mining
+2012-09-05 20:36:36 [INFO] <svanderlugt> where are you?
+2012-09-05 20:52:47 [INFO] <svanderlugt> what the fuck are you doing?
+2012-09-05 20:52:55 [INFO] <cheesebatt> what?
+2012-09-05 20:53:10 [INFO] <cheesebatt> lets put some stuff in the chest
+2012-09-05 21:00:30 [INFO] <cheesebatt> now what?
+2012-09-05 21:00:45 [INFO] <svanderlugt> i need to do my roommate agreement
+2012-09-05 21:00:52 [INFO] <svanderlugt> k?
+2012-09-05 21:01:08 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-05 21:06:43 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-06 11:43:47 [INFO] cheesebatt[/141.219.226.235:59992] logged in with entity id 997558 at (-163.0813729399795, 61.0, 203.17473090950816)
+2012-09-06 12:15:17 [INFO] cheesebatt lost connection: disconnect.quitting
