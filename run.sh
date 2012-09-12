@@ -1,0 +1,1 @@
+java -Xmx1024M -Xms1024M -jar ~/Minecraft/Citadel-Minecraft-Server/minecraft_server.jar nogui
