@@ -980,3 +980,303 @@
 2012-09-12 17:36:04 [INFO] Saving chunks for level 'world'/Nether
 2012-09-12 17:36:04 [INFO] Saving chunks for level 'world'/The End
 2012-09-12 17:36:04 [INFO] Stopping server
+2012-09-12 17:38:28 [INFO] Starting minecraft server version 1.3.2
+2012-09-12 17:38:28 [INFO] Loading properties
+2012-09-12 17:38:28 [INFO] Default game type: SURVIVAL
+2012-09-12 17:38:28 [INFO] Generating keypair
+2012-09-12 17:38:28 [INFO] Starting Minecraft server on *:25565
+2012-09-12 17:38:28 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2012-09-12 17:38:28 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2012-09-12 17:38:28 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2012-09-12 17:38:28 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2012-09-12 17:38:28 [INFO] Preparing level "world"
+2012-09-12 17:38:28 [INFO] Preparing start region for level 0
+2012-09-12 17:38:28 [INFO] Done (0.401s)! For help, type "help" or "?"
+2012-09-12 17:38:30 [INFO] /127.0.0.1:54139 lost connection
+2012-09-12 17:38:31 [INFO] svanderlugt[/127.0.0.1:54140] logged in with entity id 464 at (-166.65460050219747, 62.0, 207.6400569644921)
+2012-09-12 17:45:23 [INFO] cheesebatt[/141.219.226.159:38527] logged in with entity id 10445 at (-7.699999988079071, 17.0, 185.5512512370078)
+2012-09-12 17:49:53 [INFO] <svanderlugt> I has an ender pearl
+2012-09-12 17:50:04 [INFO] <cheesebatt> cool
+2012-09-12 18:19:00 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-12 18:30:48 [INFO] cheesebatt[/141.219.226.159:38619] logged in with entity id 61456 at (-4.300000011920925, 17.0, 185.6899713085356)
+2012-09-12 18:31:08 [WARNING] svanderlugt moved wrongly!
+2012-09-12 18:36:42 [WARNING] cheesebatt moved wrongly!
+2012-09-12 18:47:38 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-12 19:02:55 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-12 21:37:18 [INFO] bdmarkel[/141.219.214.128:55121] logged in with entity id 104689 at (2.5676555858208627, 78.0, -92.91602587577565)
+2012-09-12 21:37:39 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-12 23:14:11 [INFO] bdmarkel[/141.219.214.128:50129] logged in with entity id 105580 at (-3.1840511224840755, 83.0, -101.04342567095173)
+2012-09-13 00:32:58 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-13 13:28:33 [INFO] svanderlugt[/127.0.0.1:59766] logged in with entity id 222986 at (-349.43596618634564, 68.0, 239.85524138741565)
+2012-09-13 13:41:56 [INFO] bdmarkel[/141.219.214.128:53332] logged in with entity id 232209 at (-6.335267477924594, 78.0, -99.08928581708604)
+2012-09-13 13:42:13 [INFO] <bdmarkel> Hello?
+2012-09-13 13:42:17 [INFO] <svanderlugt> sup ben
+2012-09-13 13:42:30 [INFO] <bdmarkel> What you been up too?
+2012-09-13 13:42:35 [INFO] <svanderlugt> diamond mining
+2012-09-13 13:42:40 [INFO] <svanderlugt> you?
+2012-09-13 13:42:51 [INFO] <bdmarkel> Working on my house.
+2012-09-13 13:42:58 [INFO] <svanderlugt> how's it coming?
+2012-09-13 13:43:33 [INFO] <bdmarkel> Still need to set up the second floor, but the jacuzzi's coming along nicely.
+2012-09-13 13:50:13 [INFO] <bdmarkel> Hot tub is done!
+2012-09-13 13:50:44 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-13 13:51:16 [INFO] bdmarkel[/141.219.214.128:53356] logged in with entity id 247244 at (-6.984868792190638, 78.0, -99.07342148005885)
+2012-09-13 13:51:28 [INFO] <svanderlugt> how does one make a hot tub?
+2012-09-13 13:51:44 [INFO] <bdmarkel> Come on over and check it out.
+2012-09-13 13:57:02 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-13 13:57:19 [INFO] bdmarkel[/141.219.214.128:53370] logged in with entity id 259752 at (-4.730492843561636, 83.0, -92.02314284862965)
+2012-09-13 14:03:45 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-13 14:04:36 [INFO] bdmarkel[/141.219.214.128:53395] logged in with entity id 266904 at (5.6999999880790675, 83.0, -95.17127379260373)
+2012-09-13 14:04:55 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-13 14:05:08 [INFO] bdmarkel[/141.219.214.128:53403] logged in with entity id 268303 at (7.022754277993554, 84.0, -94.56008105712125)
+2012-09-13 14:06:23 [INFO] <bdmarkel> Hai
+2012-09-13 14:06:23 [INFO] <svanderlugt> sup brah
+2012-09-13 14:06:37 [INFO] <svanderlugt> lol
+2012-09-13 14:06:49 [INFO] <bdmarkel> We might get some serious burns
+2012-09-13 14:06:57 [INFO] <bdmarkel> But it's just so comfy.
+2012-09-13 14:07:15 [INFO] <svanderlugt> ben, 104 F is the maximum temp allowed by law
+2012-09-13 14:07:26 [INFO] <svanderlugt> you has a puppy
+2012-09-13 14:07:26 [INFO] <bdmarkel> Seems legit.
+2012-09-13 14:07:42 [INFO] <bdmarkel> I have three.
+2012-09-13 14:07:45 [INFO] <svanderlugt> nice
+2012-09-13 14:07:54 [INFO] <svanderlugt> what do you breed them with?
+2012-09-13 14:08:12 [INFO] <bdmarkel> If you have two at full health rotten meat will work.
+2012-09-13 14:08:34 [INFO] <bdmarkel> There's some more wild ones behind the house if you want one.
+2012-09-13 14:08:45 [INFO] <svanderlugt> how do I get it to become friendly
+2012-09-13 14:09:01 [INFO] <bdmarkel> Right on one with a bone.
+2012-09-13 14:09:16 [INFO] <bdmarkel> If it works pink hearts will float around it.
+2012-09-13 14:09:53 [INFO] <bdmarkel> I thought I had some bones here.
+2012-09-13 14:10:23 [WARNING] bdmarkel moved wrongly!
+2012-09-13 14:10:40 [INFO] <bdmarkel> Where'd you go?
+2012-09-13 14:10:50 [INFO] <svanderlugt> searching for doggies
+2012-09-13 14:12:00 [INFO] <bdmarkel> Found one
+2012-09-13 14:12:06 [INFO] <svanderlugt> snow
+2012-09-13 14:12:23 [INFO] <svanderlugt> where are you
+2012-09-13 14:12:30 [INFO] <bdmarkel> X -69
+2012-09-13 14:12:36 [INFO] <bdmarkel> Y67
+2012-09-13 14:13:20 [INFO] <bdmarkel> Z -191
+2012-09-13 14:14:01 [INFO] <bdmarkel> Try again.
+2012-09-13 14:14:17 [INFO] <svanderlugt> so now what
+2012-09-13 14:14:25 [INFO] <bdmarkel> He's sitting, right click to have him walk.
+2012-09-13 14:16:49 [INFO] <bdmarkel> Are you still looking for another?
+2012-09-13 14:16:56 [INFO] <svanderlugt> tomorrow
+2012-09-13 14:17:42 [INFO] <svanderlugt> bedtime
+2012-09-13 14:19:22 [INFO] <bdmarkel> Sorry I got lost.
+2012-09-13 14:21:42 [INFO] <bdmarkel> Hey, I was going to did for some sand.
+2012-09-13 14:21:48 [INFO] <svanderlugt> col
+2012-09-13 14:21:50 [INFO] <svanderlugt> cool
+2012-09-13 14:31:43 [INFO] <svanderlugt> bedtime
+2012-09-13 14:31:45 [INFO] <svanderlugt> ?
+2012-09-13 14:33:16 [INFO] <bdmarkel> Desert is very big
+2012-09-13 14:33:22 [INFO] <svanderlugt> yes
+2012-09-13 14:36:31 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-13 14:36:46 [INFO] bdmarkel[/141.219.214.128:53461] logged in with entity id 355488 at (-1.3470022041391092, 83.0, -91.96082751186131)
+2012-09-13 14:40:53 [WARNING] bdmarkel moved wrongly!
+2012-09-13 14:44:40 [INFO] <bdmarkel> Bedtime?
+2012-09-13 14:56:17 [INFO] <svanderlugt> later Ben
+2012-09-13 14:56:22 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-13 15:09:56 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-13 19:16:22 [INFO] svanderlugt[/127.0.0.1:60985] logged in with entity id 429259 at (-544.5, 69.02159847259522, 441.5)
+2012-09-13 19:27:33 [INFO] Set the time to 0
+2012-09-13 19:39:55 [INFO] Unknown command. Try /help for a list of commands.
+2012-09-13 19:39:59 [INFO] Set the time to 0
+2012-09-13 19:53:27 [INFO] Set the time to 0
+2012-09-13 20:03:35 [INFO] Set the time to 0
+2012-09-13 20:13:38 [INFO] Set the time to 0
+2012-09-13 20:24:32 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-14 18:14:40 [INFO] Starting minecraft server version 1.3.2
+2012-09-14 18:14:40 [INFO] Loading properties
+2012-09-14 18:14:40 [INFO] Default game type: SURVIVAL
+2012-09-14 18:14:40 [INFO] Generating keypair
+2012-09-14 18:14:41 [INFO] Starting Minecraft server on *:25565
+2012-09-14 18:14:41 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2012-09-14 18:14:41 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2012-09-14 18:14:41 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2012-09-14 18:14:41 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2012-09-14 18:14:41 [INFO] Preparing level "world"
+2012-09-14 18:14:41 [INFO] Preparing start region for level 0
+2012-09-14 18:14:41 [INFO] Done (0.412s)! For help, type "help" or "?"
+2012-09-14 18:14:58 [INFO] svanderlugt[/127.0.0.1:46625] logged in with entity id 362 at (-1129.098700884977, 63.0, -64.86937901279828)
+2012-09-14 18:45:41 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-14 20:33:54 [INFO] svanderlugt[/127.0.0.1:46933] logged in with entity id 57897 at (-174.22837018359743, 63.0, 168.00122206127347)
+2012-09-14 21:02:58 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-14 21:17:46 [INFO] svanderlugt[/127.0.0.1:48032] logged in with entity id 110446 at (208.7407312476229, 70.0, -228.65209929325755)
+2012-09-14 21:22:36 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-14 21:22:43 [INFO] svanderlugt[/127.0.0.1:48035] logged in with entity id 123925 at (-175.65811711760935, 74.0, 17.279738154011657)
+2012-09-14 21:25:13 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-14 21:27:25 [INFO] svanderlugt[/127.0.0.1:48133] logged in with entity id 130858 at (-334.07316070549496, 68.0, 232.46267673631013)
+2012-09-14 21:27:53 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-14 21:30:51 [INFO] svanderlugt[/127.0.0.1:48198] logged in with entity id 131211 at (-323.00424220153644, 68.0, 218.12661262245837)
+2012-09-14 21:31:40 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-14 21:35:32 [INFO] Stopping the server
+2012-09-14 21:35:32 [INFO] Stopping server
+2012-09-14 21:35:32 [INFO] Saving players
+2012-09-14 21:35:32 [INFO] Saving worlds
+2012-09-14 21:35:32 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-14 21:35:32 [INFO] Saving chunks for level 'world'/Nether
+2012-09-14 21:35:32 [INFO] Saving chunks for level 'world'/The End
+2012-09-14 21:35:32 [INFO] Stopping server
+2012-09-15 16:06:40 [INFO] Starting minecraft server version 1.3.2
+2012-09-15 16:06:40 [INFO] Loading properties
+2012-09-15 16:06:40 [INFO] Default game type: SURVIVAL
+2012-09-15 16:06:40 [INFO] Generating keypair
+2012-09-15 16:06:41 [INFO] Starting Minecraft server on *:25565
+2012-09-15 16:06:41 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2012-09-15 16:06:41 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2012-09-15 16:06:41 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2012-09-15 16:06:41 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2012-09-15 16:06:41 [INFO] Preparing level "world"
+2012-09-15 16:06:41 [INFO] Preparing start region for level 0
+2012-09-15 16:06:41 [INFO] Done (0.414s)! For help, type "help" or "?"
+2012-09-15 17:38:53 [INFO] /127.0.0.1:48720 lost connection
+2012-09-15 17:40:46 [INFO] cheesebatt[/141.219.226.223:49182] logged in with entity id 425 at (24.115351384934083, 76.0, 147.95509918151464)
+2012-09-15 18:45:34 [WARNING] cheesebatt moved wrongly!
+2012-09-15 18:52:25 [WARNING] cheesebatt moved wrongly!
+2012-09-15 19:07:37 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-15 19:22:22 [INFO] svanderlugt[/127.0.0.1:49439] logged in with entity id 85271 at (-352.2182904158176, 68.0, 238.2897741419041)
+2012-09-15 19:39:56 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-15 19:40:17 [INFO] svanderlugt[/127.0.0.1:49475] logged in with entity id 113639 at (-249.8119001324724, 42.0, 144.94936019529186)
+2012-09-15 19:42:32 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-15 20:41:23 [INFO] svanderlugt[/127.0.0.1:50441] logged in with entity id 121916 at (-168.03087508236888, 58.0, 213.43678251502968)
+2012-09-15 20:48:05 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-15 20:49:45 [INFO] svanderlugt[/127.0.0.1:50503] logged in with entity id 131780 at (-7.868311047562855, 69.0, -34.6404385798387)
+2012-09-15 20:51:01 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-15 20:51:33 [INFO] cheesebatt[/141.219.226.223:50210] logged in with entity id 133677 at (-3.3513571406650207, 17.0, 182.30000001192093)
+2012-09-15 22:12:31 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-15 23:23:32 [INFO] bdmarkel[/141.219.214.128:52412] logged in with entity id 205640 at (2.300000011920928, 74.0, -98.24284675572535)
+2012-09-15 23:29:29 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-15 23:30:05 [INFO] bdmarkel[/141.219.214.128:52822] logged in with entity id 215222 at (-6.798494164788795, 83.0, -99.16418037887654)
+2012-09-15 23:30:24 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-15 23:31:14 [INFO] bdmarkel[/141.219.214.128:52830] logged in with entity id 215364 at (-3.0355090409406356, 83.0, -98.85632370166539)
+2012-09-15 23:34:48 [WARNING] bdmarkel moved wrongly!
+2012-09-16 00:46:43 [WARNING] bdmarkel moved wrongly!
+2012-09-16 01:16:26 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-16 02:07:19 [INFO] bdmarkel[/141.219.214.128:57932] logged in with entity id 394011 at (-2.0679532523080493, 78.0, -98.05538847663745)
+2012-09-16 03:32:20 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-16 11:37:10 [INFO] bdmarkel[/141.219.214.128:64448] logged in with entity id 480793 at (-0.9904168836618914, 83.0, -99.2430082189262)
+2012-09-16 11:43:45 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-16 11:43:53 [INFO] bdmarkel[/141.219.214.128:64484] logged in with entity id 492767 at (-181.66098236368381, 63.5, 197.18572916742764)
+2012-09-16 11:43:59 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-16 11:44:07 [INFO] bdmarkel[/141.219.214.128:64488] logged in with entity id 492842 at (-181.31250922313208, 64.0, 198.575762031497)
+2012-09-16 12:25:03 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-16 12:26:06 [INFO] bdmarkel[/141.219.214.128:64872] logged in with entity id 563129 at (325.48404458237627, 66.0, 352.05014912630827)
+2012-09-16 13:09:41 [INFO] cheesebatt[/141.219.226.212:34078] logged in with entity id 597295 at (24.3384057500405, 76.0, 148.51617005238413)
+2012-09-16 13:10:14 [INFO] <cheesebatt> herro?
+2012-09-16 13:10:19 [INFO] <bdmarkel> Hi Kenz
+2012-09-16 13:10:24 [INFO] <cheesebatt> ah, hi ben
+2012-09-16 13:10:37 [INFO] <cheesebatt> didn't know who else was on
+2012-09-16 13:11:11 [INFO] <bdmarkel> I'm just out mining right now.
+2012-09-16 13:11:21 [INFO] <cheesebatt> hmm sound not working
+2012-09-16 13:11:23 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-16 13:11:42 [INFO] cheesebatt[/141.219.226.212:34093] logged in with entity id 600365 at (23.781636861258868, 76.0, 154.44190799291258)
+2012-09-16 13:12:19 [INFO] <cheesebatt> works now, that was weird
+2012-09-16 13:12:26 [INFO] <bdmarkel> ?
+2012-09-16 13:27:10 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-16 13:30:48 [INFO] cheesebatt[/141.219.226.212:35743] logged in with entity id 625220 at (-3.474475765769734, 17.0, 182.30000001192093)
+2012-09-16 13:31:47 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-16 13:40:27 [INFO] cheesebatt[/141.219.226.223:49172] logged in with entity id 635867 at (-31.365232949021085, 17.0, 178.3867583800855)
+2012-09-16 13:58:46 [WARNING] bdmarkel moved wrongly!
+2012-09-16 14:59:09 [WARNING] bdmarkel moved wrongly!
+2012-09-16 15:02:50 [INFO] <bdmarkel> Kenz? Can you get to bed?
+2012-09-16 15:02:57 [INFO] <cheesebatt> give me a sec then yeah
+2012-09-16 15:04:08 [INFO] <bdmarkel> Thanks
+2012-09-16 15:09:09 [WARNING] bdmarkel moved wrongly!
+2012-09-16 15:24:07 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-16 15:37:17 [WARNING] cheesebatt moved wrongly!
+2012-09-16 15:37:40 [WARNING] cheesebatt moved wrongly!
+2012-09-16 15:43:41 [INFO] svanderlugt[/127.0.0.1:45113] logged in with entity id 837097 at (-11.169372513180267, 68.0, -33.73873030097329)
+2012-09-16 15:44:21 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-16 15:46:43 [INFO] svanderlugt[/127.0.0.1:45149] logged in with entity id 840368 at (-18.304242346103145, 68.0, -33.68587681738299)
+2012-09-16 15:48:15 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-16 15:48:21 [INFO] svanderlugt[/127.0.0.1:45159] logged in with entity id 842809 at (-2.174548230424756, 66.0, 13.357345624380823)
+2012-09-16 15:49:30 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-16 16:10:46 [INFO] cheesebatt[/141.219.226.223:49714] logged in with entity id 862517 at (-162.8955651608991, 51.0, 235.45346130294138)
+2012-09-16 16:49:36 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-16 16:52:49 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-16 17:35:03 [INFO] cheesebatt[/141.219.226.223:50794] logged in with entity id 945176 at (1.6748241350339064, 71.0, 148.38826038694728)
+2012-09-16 18:34:26 [WARNING] cheesebatt moved wrongly!
+2012-09-16 19:10:06 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-17 16:27:06 [INFO] cheesebatt[/141.219.226.212:54679] logged in with entity id 1063634 at (24.5, 76.0, 144.5)
+2012-09-17 16:41:04 [WARNING] cheesebatt moved wrongly!
+2012-09-17 17:08:05 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-17 17:56:43 [INFO] Stopping the server
+2012-09-17 17:56:43 [INFO] Stopping server
+2012-09-17 17:56:43 [INFO] Saving players
+2012-09-17 17:56:43 [INFO] Saving worlds
+2012-09-17 17:56:43 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-17 17:56:43 [INFO] Saving chunks for level 'world'/Nether
+2012-09-17 17:56:43 [INFO] Saving chunks for level 'world'/The End
+2012-09-17 21:38:13 [INFO] Starting minecraft server version 1.3.2
+2012-09-17 21:38:13 [INFO] Loading properties
+2012-09-17 21:38:13 [INFO] Default game type: SURVIVAL
+2012-09-17 21:38:13 [INFO] Generating keypair
+2012-09-17 21:38:13 [INFO] Starting Minecraft server on *:25565
+2012-09-17 21:38:13 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2012-09-17 21:38:13 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2012-09-17 21:38:13 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2012-09-17 21:38:13 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2012-09-17 21:38:13 [INFO] Preparing level "world"
+2012-09-17 21:38:13 [INFO] Preparing start region for level 0
+2012-09-17 21:38:14 [INFO] Done (0.407s)! For help, type "help" or "?"
+2012-09-17 23:57:38 [INFO] cheesebatt[/141.219.226.212:36038] logged in with entity id 362 at (-8.251851358728167, 17.0, 182.30000001192093)
+2012-09-18 00:35:46 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-18 11:31:20 [INFO] cheesebatt[/141.219.226.212:38232] logged in with entity id 31076 at (18.285650502830507, 57.0, 131.73099005006878)
+2012-09-18 11:42:41 [WARNING] cheesebatt moved wrongly!
+2012-09-18 12:22:47 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-18 18:45:16 [INFO] bdmarkel[/141.219.214.128:61190] logged in with entity id 80124 at (-3.165205572905683, 74.0, -97.68994513779224)
+2012-09-18 19:04:47 [WARNING] bdmarkel moved wrongly!
+2012-09-18 19:19:15 [WARNING] bdmarkel moved wrongly!
+2012-09-18 19:25:32 [WARNING] bdmarkel moved wrongly!
+2012-09-18 19:35:52 [INFO] cheesebatt[/141.219.226.212:38892] logged in with entity id 154952 at (25.39511917424522, 76.0, 144.37368274741237)
+2012-09-18 19:35:58 [INFO] <bdmarkel> Hai Kenz
+2012-09-18 19:36:03 [INFO] <cheesebatt> hi ben
+2012-09-18 19:47:37 [WARNING] bdmarkel moved wrongly!
+2012-09-18 20:00:46 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-18 20:00:48 [INFO] bdmarkel[/141.219.214.128:61735] logged in with entity id 205028 at (-9.13544372078712, 71.0, -71.36404029414105)
+2012-09-18 20:03:04 [INFO] <bdmarkel> Hey Kenz, if I wanted to put up my own section of train station, what coordinates would I have to
+2012-09-18 20:03:13 [INFO] <cheesebatt> just a sec
+2012-09-18 20:03:14 [INFO] <bdmarkel> dig to to get to yours?
+2012-09-18 20:03:21 [INFO] <cheesebatt> i know the depth is lvl 51
+2012-09-18 20:04:19 [INFO] <cheesebatt> the specs for the subway are:
+2012-09-18 20:04:30 [INFO] <cheesebatt> track at y = 51
+2012-09-18 20:04:40 [INFO] <cheesebatt> tunnel is 5 wide
+2012-09-18 20:05:03 [INFO] <cheesebatt> my station is parallel w/ the sun but yours doesn't have to be
+2012-09-18 20:05:38 [INFO] <bdmarkel> Y is height right?
+2012-09-18 20:05:40 [INFO] <cheesebatt> my station is at (21, 51, 159) thats standing between the tracks
+2012-09-18 20:05:42 [INFO] <cheesebatt> yes
+2012-09-18 20:06:24 [INFO] <bdmarkel> All right, I'll try to link something up later.
+2012-09-18 20:06:25 [INFO] <cheesebatt> you are going to want your x value to be higher than mine
+2012-09-18 20:08:46 [WARNING] bdmarkel moved wrongly!
+2012-09-18 20:48:19 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-18 20:48:26 [INFO] bdmarkel[/141.219.214.128:61790] logged in with entity id 286802 at (-2.602978369574935, 53.0, -123.72951466188661)
+2012-09-18 20:48:33 [INFO] <bdmarkel> See you later Kenz
+2012-09-18 20:48:37 [INFO] bdmarkel lost connection: disconnect.genericReason
+2012-09-18 21:32:16 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-18 23:10:50 [INFO] bdmarkel[/141.219.214.128:65292] logged in with entity id 336973 at (-2.602978369574935, 53.0, -123.72951466188661)
+2012-09-18 23:39:27 [INFO] cheesebatt[/141.219.226.212:40010] logged in with entity id 365111 at (24.5, 76.0, 144.5)
+2012-09-18 23:39:34 [INFO] <bdmarkel> Sup
+2012-09-18 23:39:38 [INFO] <cheesebatt> yo
+2012-09-18 23:39:43 [INFO] <cheesebatt> how goes your tunnel?
+2012-09-18 23:40:19 [INFO] <bdmarkel> About 30 blocks long so far.
+2012-09-18 23:40:24 [INFO] <cheesebatt> lol
+2012-09-18 23:40:45 [INFO] <cheesebatt> are you making it 5 wide or just one?
+2012-09-18 23:40:52 [INFO] <bdmarkel> Five wide.
+2012-09-18 23:41:09 [INFO] <cheesebatt> do one first to make sure it lines up right, then expand later
+2012-09-18 23:41:15 [INFO] <cheesebatt> at least that's what we did
+2012-09-18 23:41:27 [INFO] <bdmarkel> Probably a good idea.
+2012-09-18 23:45:11 [WARNING] bdmarkel moved wrongly!
+2012-09-19 00:01:01 [WARNING] bdmarkel moved wrongly!
+2012-09-19 00:01:26 [INFO] <bdmarkel> I hit your side of the tracks I think
+2012-09-19 00:14:46 [INFO] svanderlugt[/127.0.0.1:34094] logged in with entity id 416881 at (-583.0019564365693, 5.0, 257.30000001192093)
+2012-09-19 00:15:10 [INFO] <bdmarkel> Hi Scott
+2012-09-19 00:15:16 [INFO] <svanderlugt> sup Ben
+2012-09-19 00:15:35 [INFO] <bdmarkel> I have dug the friendship tunnel to Kenz's house.
+2012-09-19 00:16:24 [INFO] <cheesebatt> how is that tunnel coming along?
+2012-09-19 00:16:35 [INFO] <bdmarkel> I've hit the tracks.
+2012-09-19 00:18:00 [INFO] <cheesebatt> i told you to go more in the positive x direction, lol
+2012-09-19 00:18:23 [INFO] <bdmarkel> We can fix it later.
+2012-09-19 00:18:46 [INFO] <cheesebatt> we will see, this will make the junction interesting
+2012-09-19 00:25:03 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-19 00:39:31 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-19 00:51:13 [WARNING] cheesebatt moved wrongly!
+2012-09-19 00:55:20 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-19 14:38:25 [INFO] Stopping server
