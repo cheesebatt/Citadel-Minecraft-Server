@@ -1280,3 +1280,225 @@
 2012-09-19 00:51:13 [WARNING] cheesebatt moved wrongly!
 2012-09-19 00:55:20 [INFO] cheesebatt lost connection: disconnect.quitting
 2012-09-19 14:38:25 [INFO] Stopping server
+2012-09-19 21:08:44 [INFO] Starting minecraft server version 1.3.2
+2012-09-19 21:08:44 [INFO] Loading properties
+2012-09-19 21:08:44 [INFO] Default game type: SURVIVAL
+2012-09-19 21:08:44 [INFO] Generating keypair
+2012-09-19 21:08:44 [INFO] Starting Minecraft server on *:25565
+2012-09-19 21:08:44 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2012-09-19 21:08:44 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2012-09-19 21:08:44 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2012-09-19 21:08:44 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2012-09-19 21:08:44 [INFO] Preparing level "world"
+2012-09-19 21:08:44 [INFO] Preparing start region for level 0
+2012-09-19 21:08:44 [INFO] Done (0.401s)! For help, type "help" or "?"
+2012-09-19 21:25:21 [INFO] cheesebatt[/141.219.226.212:42041] logged in with entity id 395 at (24.310906312526534, 76.0, 148.59089713027407)
+2012-09-19 21:58:00 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-20 12:55:11 [INFO] bdmarkel[/141.219.214.46:59798] logged in with entity id 31219 at (-9.553030521527036, 78.0, -94.24003196578595)
+2012-09-20 13:02:57 [WARNING] bdmarkel moved wrongly!
+2012-09-20 13:31:11 [WARNING] bdmarkel moved wrongly!
+2012-09-20 14:10:49 [WARNING] bdmarkel moved wrongly!
+2012-09-20 14:13:24 [WARNING] bdmarkel moved wrongly!
+2012-09-20 14:19:12 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-20 16:33:37 [INFO] bdmarkel[/141.219.214.46:60759] logged in with entity id 111528 at (-3.482389011355418, 74.0, -100.01021575002515)
+2012-09-20 16:48:57 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-20 18:10:09 [INFO] bdmarkel[/141.219.214.46:61296] logged in with entity id 129626 at (-6.421605908969642, 51.0, 138.06687024481514)
+2012-09-20 18:23:38 [WARNING] bdmarkel moved wrongly!
+2012-09-20 19:50:17 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-20 20:55:14 [INFO] bdmarkel[/141.219.214.46:64458] logged in with entity id 282339 at (2.5, 83.0, -93.5)
+2012-09-20 20:55:55 [WARNING] bdmarkel moved wrongly!
+2012-09-20 20:58:45 [WARNING] bdmarkel moved wrongly!
+2012-09-20 21:41:38 [WARNING] bdmarkel moved wrongly!
+2012-09-20 22:00:18 [WARNING] bdmarkel moved wrongly!
+2012-09-20 22:13:12 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-22 00:35:16 [INFO] cheesebatt[/141.219.226.223:55215] logged in with entity id 420881 at (18.469674052481153, 60.0, 139.77487453624036)
+2012-09-22 00:56:05 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-22 13:39:45 [INFO] cheesebatt[/141.219.226.223:57332] logged in with entity id 440153 at (15.416407142104589, 60.0, 138.67359987156945)
+2012-09-22 13:50:15 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-22 13:53:10 [INFO] bdmarkel[/141.219.219.170:55734] logged in with entity id 448887 at (-7.300000011920932, 74.0, -97.59558781914473)
+2012-09-22 14:14:28 [WARNING] bdmarkel moved wrongly!
+2012-09-22 14:39:41 [WARNING] bdmarkel moved wrongly!
+2012-09-22 14:52:04 [WARNING] bdmarkel moved wrongly!
+2012-09-22 15:05:51 [INFO] svanderlugt[/127.0.0.1:40262] logged in with entity id 529634 at (-334.94870375962705, 68.0, 232.90074701278417)
+2012-09-22 15:06:59 [INFO] <bdmarkel> Hey Scott.
+2012-09-22 15:07:05 [INFO] <svanderlugt> hey Ben
+2012-09-22 15:07:18 [INFO] <bdmarkel> I think I fixed the rail system.
+2012-09-22 15:07:22 [INFO] <svanderlugt> cool
+2012-09-22 15:08:54 [INFO] <bdmarkel> Also I put in a pumpkin patch by the farms.
+2012-09-22 15:09:00 [INFO] <svanderlugt> nice
+2012-09-22 15:12:35 [INFO] <bdmarkel> I made a snow golum, he looks wierd.
+2012-09-22 15:12:39 [INFO] <svanderlugt> lol'
+2012-09-22 15:14:20 [WARNING] bdmarkel moved wrongly!
+2012-09-22 15:18:48 [INFO] <bdmarkel> Snowman party in Scott's house! :D
+2012-09-22 15:20:16 [INFO] <bdmarkel> I invited some friends over.
+2012-09-22 15:20:24 [INFO] <bdmarkel> That's cool right?
+2012-09-22 15:20:28 [INFO] <svanderlugt> cool indeed
+2012-09-22 15:20:57 [INFO] <bdmarkel> They were supposed to leave snow trails and ruin your carpet though.
+2012-09-22 15:21:07 [INFO] <svanderlugt> only in a taiga biome
+2012-09-22 15:21:15 [INFO] <svanderlugt> bring them to Kenz's house
+2012-09-22 15:21:25 [INFO] <bdmarkel> They'll die there.
+2012-09-22 15:21:38 [INFO] <bdmarkel> I think.
+2012-09-22 15:21:40 [INFO] <svanderlugt> damn, I was hoping you didn't know that
+2012-09-22 15:22:09 [INFO] <bdmarkel> What's up here?
+2012-09-22 15:22:14 [INFO] <svanderlugt> nothing yet
+2012-09-22 15:22:21 [INFO] <svanderlugt> my room eventually
+2012-09-22 15:23:32 [INFO] <bdmarkel> Well I'm heading out, I'll see you later.
+2012-09-22 15:23:37 [INFO] <svanderlugt> later
+2012-09-22 15:23:59 [INFO] <bdmarkel> Just gonna ride back to my house first.
+2012-09-22 15:26:07 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-22 15:27:58 [INFO] cheesebatt[/141.219.226.223:60347] logged in with entity id 558060 at (17.044127833055825, 60.0, 139.9878293765766)
+2012-09-22 15:28:29 [INFO] Munstermello[/141.219.226.153:51166] logged in with entity id 558701 at (-276.41664987570584, 67.0, 118.53442793216288)
+2012-09-22 15:33:07 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-22 15:39:15 [WARNING] Munstermello moved wrongly!
+2012-09-22 16:00:48 [INFO] svanderlugt[/127.0.0.1:40393] logged in with entity id 619870 at (-482.9960485446907, 11.0, 157.66693792378524)
+2012-09-22 16:14:02 [INFO] Munstermello lost connection: disconnect.quitting
+2012-09-22 16:15:05 [INFO] bdmarkel[/141.219.219.170:57209] logged in with entity id 645576 at (-3.9599909417591386, 75.0, -96.72870223396082)
+2012-09-22 16:15:20 [INFO] <bdmarkel> Hi everybody.
+2012-09-22 16:16:18 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-22 16:16:20 [INFO] bdmarkel[/141.219.219.170:57216] logged in with entity id 649467 at (-5.5678068857699055, 51.0, -127.04303207045449)
+2012-09-22 16:17:07 [INFO] <bdmarkel> ??? Anyone on?
+2012-09-22 16:17:11 [INFO] <svanderlugt> yeah
+2012-09-22 16:18:01 [INFO] <bdmarkel> I was thinking of visiting the nether. You wanna come?
+2012-09-22 16:18:16 [INFO] <bdmarkel> Hi Kenz, I fixed the rails.
+2012-09-22 16:18:18 [INFO] <svanderlugt> I think I'll pass, maybe in 10 mins
+2012-09-22 16:18:27 [INFO] <cheesebatt> hi ben, i saw, looks nice
+2012-09-22 16:18:36 [INFO] <bdmarkel> I need to go back for some food anyway.
+2012-09-22 16:23:58 [INFO] <bdmarkel> I'm using your portal ok Scott?
+2012-09-22 16:24:03 [INFO] <svanderlugt> fine
+2012-09-22 16:27:34 [INFO] <bdmarkel> Scott? Did you build anything in the nether? Lik a castle or something?
+2012-09-22 16:27:50 [INFO] <svanderlugt> I didn't
+2012-09-22 16:27:54 [INFO] <cheesebatt> where?
+2012-09-22 16:28:07 [INFO] <bdmarkel> I think I found a nether fortress then.
+2012-09-22 16:28:19 [INFO] <cheesebatt> yeah there is one around there, ed found it earlier
+2012-09-22 16:28:26 [INFO] <cheesebatt> idk where it is though
+2012-09-22 16:28:28 [INFO] <svanderlugt> I'll help storm it once I find my way out
+2012-09-22 16:30:54 [INFO] <bdmarkel> K, I'll just wait by the portal than. Bring some flint and steel.
+2012-09-22 16:34:35 [INFO] Munstermello[/141.219.226.153:52753] logged in with entity id 681259 at (-237.0727781879516, 88.0, 386.9340103687605)
+2012-09-22 16:34:39 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-22 16:34:51 [WARNING] bdmarkel moved wrongly!
+2012-09-22 16:35:07 [INFO] <bdmarkel> Ok, lets go.
+2012-09-22 16:35:48 [INFO] <bdmarkel> You see those bricks up there?
+2012-09-22 16:35:59 [INFO] <svanderlugt> sort of
+2012-09-22 16:36:05 [INFO] <bdmarkel> I think that's it.
+2012-09-22 16:36:11 [INFO] <svanderlugt> how do we get there
+2012-09-22 16:37:08 [INFO] <bdmarkel> We'll have to dig our way up.
+2012-09-22 16:38:44 [INFO] <bdmarkel> God dammit, this is just cobblestone.
+2012-09-22 16:38:53 [INFO] <bdmarkel> My bad.
+2012-09-22 16:38:54 [INFO] <svanderlugt> I think ed did this
+2012-09-22 16:39:00 [INFO] <Munstermello> ?
+2012-09-22 16:39:22 [INFO] <Munstermello> My fortress was a bit lower than the portal
+2012-09-22 16:39:34 [INFO] <svanderlugt> cobble isn't natural in the nether
+2012-09-22 16:39:45 [INFO] <Munstermello> oh then i guess you found it
+2012-09-22 16:39:54 [INFO] <bdmarkel> I just thought it was my texture pack.
+2012-09-22 16:40:25 [INFO] <bdmarkel> Ed, did you say you found a fortress in the Nether?
+2012-09-22 16:40:42 [INFO] <Munstermello> yeah, looted half the netherwart
+2012-09-22 16:40:54 [INFO] <bdmarkel> Did you find a blaze spawner?
+2012-09-22 16:41:00 [INFO] <Munstermello> only blazes
+2012-09-22 16:41:06 [INFO] <Munstermello> no spawner
+2012-09-22 16:41:13 [INFO] <bdmarkel> Did you search the whole thing?
+2012-09-22 16:41:25 [INFO] <Munstermello> No, my picks broke
+2012-09-22 16:41:35 [INFO] <bdmarkel> Could you lead us to it?
+2012-09-22 16:41:45 [INFO] <Munstermello> Yeah i'll be there soon
+2012-09-22 16:41:58 [INFO] <svanderlugt> I'm going to go get dinner now
+2012-09-22 16:42:23 [INFO] <bdmarkel> K, I'm going to grab some glowstone.
+2012-09-22 16:42:42 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-22 16:44:40 [INFO] <Munstermello> hello?
+2012-09-22 16:44:48 [INFO] <bdmarkel> You in the nether/
+2012-09-22 16:44:53 [INFO] <Munstermello> at portal
+2012-09-22 16:45:21 [INFO] <bdmarkel> I think I'm below you.
+2012-09-22 16:46:29 [INFO] <Munstermello> Can you get to me or what
+2012-09-22 16:46:43 [INFO] <bdmarkel> I'm coming. Hang on.
+2012-09-22 16:48:53 [INFO] <Munstermello> Now, i don't know EXACTLZY where it is
+2012-09-22 16:48:55 [INFO] <bdmarkel> Ready to go.
+2012-09-22 16:49:53 [INFO] <bdmarkel> I'm good.
+2012-09-22 16:50:36 [INFO] <Munstermello> look for a cave-ish thing
+2012-09-22 16:51:22 [INFO] <Munstermello> plan b
+2012-09-22 16:53:00 [INFO] <Munstermello> I'll leave you to this, I'm going for dinner
+2012-09-22 16:53:13 [INFO] <bdmarkel> K thanks, see you later Ed.
+2012-09-22 16:53:15 [INFO] Munstermello lost connection: disconnect.quitting
+2012-09-22 17:08:04 [WARNING] bdmarkel moved wrongly!
+2012-09-22 17:14:08 [WARNING] bdmarkel moved wrongly!
+2012-09-22 17:18:48 [INFO] Munstermello[/141.219.226.153:52801] logged in with entity id 703188 at (76.50653983807209, 67.0, -90.61326413979654)
+2012-09-22 17:19:05 [INFO] <Munstermello> ben, what're you doing tonight?
+2012-09-22 17:19:10 [INFO] <bdmarkel> I haven't found shit out here man.
+2012-09-22 17:19:19 [INFO] <bdmarkel> Nothing, why?
+2012-09-22 17:19:38 [INFO] <bdmarkel> Found it.
+2012-09-22 17:19:43 [INFO] <Munstermello> We're going to see John Oliver at the Rosza @7
+2012-09-22 17:20:02 [INFO] <bdmarkel> Oh yeah, I meet up with you guys later.
+2012-09-22 17:20:32 [INFO] <Munstermello> I really should bring signs in here
+2012-09-22 17:21:42 [INFO] <bdmarkel> Found a blaz spawner. They're very tough.
+2012-09-22 17:22:12 [INFO] <bdmarkel> X: 87, Y:70, Z:-172
+2012-09-22 17:22:50 [WARNING] bdmarkel moved wrongly!
+2012-09-22 17:22:55 [INFO] <Munstermello> i'VE NO SWORD
+2012-09-22 17:24:02 [INFO] <bdmarkel> Make sure to pass those coorddinates onto Scott and Kenz if you see them.
+2012-09-22 17:24:19 [INFO] <Munstermello> i wrote it down
+2012-09-22 17:27:50 [INFO] <Munstermello> I've marked the path back with cobble
+2012-09-22 17:34:44 [INFO] <bdmarkel> So much fire.
+2012-09-22 17:35:00 [INFO] cheesebatt[/141.219.226.223:60937] logged in with entity id 710615 at (24.5, 76.02159847259522, 144.5)
+2012-09-22 17:36:25 [INFO] <bdmarkel> Kenz, I found a nether fortress.
+2012-09-22 17:36:31 [INFO] <cheesebatt> cool
+2012-09-22 17:36:34 [INFO] <bdmarkel> And fire, lots and lots of fire.
+2012-09-22 17:36:39 [INFO] <cheesebatt> did you find any goodies?
+2012-09-22 17:36:53 [INFO] <bdmarkel> I got some blaze staffs.
+2012-09-22 17:36:57 [INFO] <cheesebatt> cool
+2012-09-22 17:36:58 [INFO] <Munstermello> plx
+2012-09-22 17:39:40 [WARNING] bdmarkel moved wrongly!
+2012-09-22 17:40:36 [INFO] <bdmarkel> Ok I got ten staffs, that's more than enough.
+2012-09-22 17:40:45 [INFO] <bdmarkel> Screw this place, I'm out!
+2012-09-22 17:40:49 [INFO] <Munstermello> one for me? :3
+2012-09-22 17:41:01 [INFO] <bdmarkel> Sure, meet me at the portal.
+2012-09-22 17:43:22 [INFO] <bdmarkel> Thanks.
+2012-09-22 17:43:49 [INFO] <bdmarkel> I forgot about the pigs.
+2012-09-22 17:46:12 [WARNING] Munstermello moved wrongly!
+2012-09-22 17:46:19 [INFO] <bdmarkel> Did someone just loose a minecart?
+2012-09-22 17:46:26 [INFO] <cheesebatt> nope, im in it
+2012-09-22 17:46:40 [INFO] <bdmarkel> You were invisible to me.
+2012-09-22 17:46:42 [INFO] <cheesebatt> god dammit ben
+2012-09-22 17:46:57 [INFO] <bdmarkel> Wut i do?
+2012-09-22 17:47:00 [INFO] <cheesebatt> one of your snow golemns made it down to the subway
+2012-09-22 17:47:10 [INFO] <bdmarkel> Ha
+2012-09-22 17:47:29 [INFO] <cheesebatt> beep beep
+2012-09-22 17:47:42 [INFO] <bdmarkel> Wait, does going through a nether portal erase your XP?
+2012-09-22 17:47:53 [INFO] <cheesebatt> idk it shouldn't
+2012-09-22 17:48:10 [INFO] <bdmarkel> My XP is all gone. :C
+2012-09-22 17:48:13 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-22 17:48:15 [INFO] bdmarkel[/141.219.219.170:58073] logged in with entity id 745593 at (0.7475906614734401, 74.0, -98.30000001192093)
+2012-09-22 17:53:29 [INFO] <bdmarkel> Oh wait, it's back.
+2012-09-22 18:00:14 [WARNING] bdmarkel moved wrongly!
+2012-09-22 18:19:06 [INFO] Munstermello lost connection: disconnect.quitting
+2012-09-22 18:19:18 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-22 18:21:45 [INFO] Munstermello[/141.219.226.153:53691] logged in with entity id 839859 at (-241.70738227804827, 88.0, 393.48835486790847)
+2012-09-22 18:21:59 [INFO] <Munstermello> ben we're about ready to go to the rosza
+2012-09-22 18:22:22 [INFO] <bdmarkel> K should I head over to Citadel first?
+2012-09-22 18:22:53 [INFO] <Munstermello> Just hurry over
+2012-09-22 18:22:57 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-22 18:23:01 [INFO] Munstermello lost connection: disconnect.quitting
+2012-09-22 21:36:39 [INFO] Munstermello[/141.219.226.153:53997] logged in with entity id 843343 at (-241.70738227804827, 88.0, 393.48835486790847)
+2012-09-22 21:46:02 [INFO] Munstermello lost connection: disconnect.quitting
+2012-09-23 00:25:45 [INFO] cheesebatt[/141.219.226.223:52365] logged in with entity id 855631 at (23.228766669032467, 51.0, 162.03238959770917)
+2012-09-23 00:52:40 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-23 13:07:03 [INFO] bdmarkel[/141.219.221.71:49552] logged in with entity id 879145 at (-1.9889801701770569, 74.0, -98.66865270683765)
+2012-09-23 13:10:38 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-23 13:11:42 [INFO] bdmarkel[/141.219.221.71:49744] logged in with entity id 883735 at (151.31539251398, 70.0, -73.37697509274764)
+2012-09-23 13:19:34 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-23 13:41:15 [INFO] bdmarkel[/141.219.221.71:49912] logged in with entity id 897694 at (-7.051516317340416, 74.0, -98.0230144540899)
+2012-09-23 13:51:45 [WARNING] bdmarkel moved wrongly!
+2012-09-23 14:12:31 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-23 14:12:33 [INFO] bdmarkel[/141.219.221.71:50120] logged in with entity id 924472 at (523.3424200347577, 112.0, -11.349662915122568)
+2012-09-23 14:13:44 [WARNING] bdmarkel moved wrongly!
+2012-09-23 14:22:35 [WARNING] bdmarkel moved wrongly!
+2012-09-23 14:30:46 [WARNING] bdmarkel moved wrongly!
+2012-09-23 14:31:09 [WARNING] bdmarkel moved wrongly!
+2012-09-23 14:58:37 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-09-23 22:15:53 [INFO] svanderlugt[/127.0.0.1:57966] logged in with entity id 982408 at (-168.92621417067676, 58.0, 215.2067441269294)
+2012-09-23 22:16:01 [INFO] <svanderlugt> anyone in here?
+2012-09-23 22:16:38 [INFO] <svanderlugt> If you are, the server is going down for maintinence in 30 seconds, it should be back up after a few
+2012-09-23 22:16:42 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-09-23 22:17:05 [INFO] Stopping the server
+2012-09-23 22:17:05 [INFO] Stopping server
+2012-09-23 22:17:05 [INFO] Saving players
+2012-09-23 22:17:05 [INFO] Saving worlds
+2012-09-23 22:17:05 [INFO] Saving chunks for level 'world'/Overworld
+2012-09-23 22:17:05 [INFO] Saving chunks for level 'world'/Nether
+2012-09-23 22:17:05 [INFO] Saving chunks for level 'world'/The End
+2012-09-23 22:17:05 [INFO] Stopping server
