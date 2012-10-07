@@ -1502,3 +1502,153 @@
 2012-09-23 22:17:05 [INFO] Saving chunks for level 'world'/Nether
 2012-09-23 22:17:05 [INFO] Saving chunks for level 'world'/The End
 2012-09-23 22:17:05 [INFO] Stopping server
+2012-09-24 18:37:08 [INFO] Starting minecraft server version 1.3.2
+2012-09-24 18:37:08 [INFO] Loading properties
+2012-09-24 18:37:08 [INFO] Default game type: SURVIVAL
+2012-09-24 18:37:08 [INFO] Generating keypair
+2012-09-24 18:37:08 [INFO] Starting Minecraft server on *:25565
+2012-09-24 18:37:08 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2012-09-24 18:37:08 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2012-09-24 18:37:08 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2012-09-24 18:37:08 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2012-09-24 18:37:08 [INFO] Preparing level "world"
+2012-09-24 18:37:08 [INFO] Preparing start region for level 0
+2012-09-24 18:37:09 [INFO] Done (0.427s)! For help, type "help" or "?"
+2012-09-24 22:07:50 [INFO] cheesebatt[/141.219.226.223:49173] logged in with entity id 451 at (19.056865958385124, 57.0, 129.87112071696623)
+2012-09-25 00:41:52 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-09-25 23:13:27 [INFO] bdmarkel[/141.219.217.170:62617] logged in with entity id 110974 at (502.69999998807907, 84.0, -33.980437617648164)
+2012-09-25 23:17:21 [INFO] bdmarkel lost connection: disconnect.quitting
+2012-10-02 18:59:43 [INFO] Starting minecraft server version 1.3.2
+2012-10-02 18:59:43 [INFO] Loading properties
+2012-10-02 18:59:43 [INFO] Default game type: SURVIVAL
+2012-10-02 18:59:43 [INFO] Generating keypair
+2012-10-02 18:59:43 [INFO] Starting Minecraft server on *:25565
+2012-10-02 18:59:43 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2012-10-02 18:59:43 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2012-10-02 18:59:43 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2012-10-02 18:59:43 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2012-10-02 18:59:43 [INFO] Preparing level "world"
+2012-10-02 18:59:43 [INFO] Preparing start region for level 0
+2012-10-02 18:59:44 [INFO] Done (0.477s)! For help, type "help" or "?"
+2012-10-02 18:59:56 [INFO] Stopping server
+2012-10-02 19:00:31 [INFO] Starting minecraft server version 1.3.2
+2012-10-02 19:00:31 [INFO] Loading properties
+2012-10-02 19:00:31 [INFO] Default game type: SURVIVAL
+2012-10-02 19:00:31 [INFO] Generating keypair
+2012-10-02 19:00:31 [INFO] Starting Minecraft server on *:25565
+2012-10-02 19:00:31 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2012-10-02 19:00:31 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2012-10-02 19:00:31 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2012-10-02 19:00:31 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2012-10-02 19:00:31 [INFO] Preparing level "world"
+2012-10-02 19:00:31 [INFO] Preparing start region for level 0
+2012-10-02 19:00:32 [INFO] Done (0.425s)! For help, type "help" or "?"
+2012-10-02 19:00:42 [INFO] Stopping server
+2012-10-02 19:01:30 [INFO] Starting minecraft server version 1.3.2
+2012-10-02 19:01:30 [INFO] Loading properties
+2012-10-02 19:01:30 [INFO] Default game type: SURVIVAL
+2012-10-02 19:01:30 [INFO] Generating keypair
+2012-10-02 19:01:30 [INFO] Starting Minecraft server on *:25565
+2012-10-02 19:01:30 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2012-10-02 19:01:30 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2012-10-02 19:01:30 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2012-10-02 19:01:30 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2012-10-02 19:01:30 [INFO] Preparing level "world"
+2012-10-02 19:01:30 [INFO] Preparing start region for level 0
+2012-10-02 19:01:31 [INFO] Done (0.444s)! For help, type "help" or "?"
+2012-10-02 19:05:10 [INFO] Munstermello[/141.219.226.153:56055] logged in with entity id 438 at (-235.50586773150368, 89.0, 389.50720984129475)
+2012-10-02 19:20:06 [INFO] Munstermello lost connection: disconnect.quitting
+2012-10-03 17:43:57 [INFO] Munstermello[/141.219.226.153:50359] logged in with entity id 11532 at (-238.133996173279, 88.0, 389.24190774936176)
+2012-10-03 17:54:29 [WARNING] Munstermello moved wrongly!
+2012-10-03 17:56:08 [WARNING] Munstermello moved wrongly!
+2012-10-03 18:33:01 [INFO] Munstermello lost connection: disconnect.quitting
+2012-10-04 14:15:45 [INFO] Stopping the server
+2012-10-04 14:15:45 [INFO] Stopping server
+2012-10-04 14:15:45 [INFO] Saving players
+2012-10-04 14:15:45 [INFO] Saving worlds
+2012-10-04 14:15:45 [INFO] Saving chunks for level 'world'/Overworld
+2012-10-04 14:15:45 [INFO] Saving chunks for level 'world'/Nether
+2012-10-04 14:15:45 [INFO] Saving chunks for level 'world'/The End
+2012-10-04 14:15:45 [INFO] Stopping server
+2012-10-04 14:15:45 [INFO] Saving players
+2012-10-04 14:15:45 [INFO] Saving worlds
+2012-10-04 20:22:04 [INFO] Starting minecraft server version 1.3.2
+2012-10-04 20:22:04 [INFO] Loading properties
+2012-10-04 20:22:04 [INFO] Default game type: SURVIVAL
+2012-10-04 20:22:04 [INFO] Generating keypair
+2012-10-04 20:22:04 [INFO] Starting Minecraft server on *:25565
+2012-10-04 20:22:04 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2012-10-04 20:22:04 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2012-10-04 20:22:04 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2012-10-04 20:22:04 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2012-10-04 20:22:04 [INFO] Preparing level "world"
+2012-10-04 20:22:04 [INFO] Preparing start region for level 0
+2012-10-04 20:22:05 [INFO] Done (0.471s)! For help, type "help" or "?"
+2012-10-04 20:27:32 [INFO] cheesebatt[/141.219.226.223:57242] logged in with entity id 407 at (14.31474043333141, 60.0, 139.05112704602777)
+2012-10-05 00:02:56 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-10-05 17:46:22 [INFO] cheesebatt[/141.219.226.223:62016] logged in with entity id 144607 at (1306.5, 67.0, -350.5)
+2012-10-05 17:49:02 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-10-05 18:23:54 [INFO] cheesebatt[/141.219.226.223:62304] logged in with entity id 146077 at (1307.1760457936882, 67.5625, -349.8884245611211)
+2012-10-05 18:24:36 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-10-06 14:06:41 [INFO] Starting minecraft server version 1.3.2
+2012-10-06 14:06:41 [INFO] Loading properties
+2012-10-06 14:06:41 [INFO] Default game type: SURVIVAL
+2012-10-06 14:06:41 [INFO] Generating keypair
+2012-10-06 14:06:41 [INFO] Starting Minecraft server on *:25565
+2012-10-06 14:06:41 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2012-10-06 14:06:41 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2012-10-06 14:06:41 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2012-10-06 14:06:41 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2012-10-06 14:06:41 [INFO] Preparing level "world"
+2012-10-06 14:06:41 [INFO] Preparing start region for level 0
+2012-10-06 14:06:41 [INFO] Done (0.411s)! For help, type "help" or "?"
+2012-10-06 14:06:51 [INFO] Stopping server
+2012-10-06 14:06:51 [INFO] Saving players
+2012-10-06 14:06:51 [INFO] Saving worlds
+2012-10-06 14:06:51 [INFO] Saving chunks for level 'world'/Overworld
+2012-10-06 14:13:23 [INFO] Starting minecraft server version 1.3.2
+2012-10-06 14:13:23 [INFO] Loading properties
+2012-10-06 14:13:23 [INFO] Default game type: SURVIVAL
+2012-10-06 14:13:23 [INFO] Generating keypair
+2012-10-06 14:13:24 [INFO] Starting Minecraft server on *:25565
+2012-10-06 14:13:24 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2012-10-06 14:13:24 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2012-10-06 14:13:24 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2012-10-06 14:13:24 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2012-10-06 14:13:24 [INFO] Preparing level "world"
+2012-10-06 14:13:24 [INFO] Preparing start region for level 0
+2012-10-06 14:13:24 [INFO] Done (0.386s)! For help, type "help" or "?"
+2012-10-06 15:10:09 [INFO] Starting minecraft server version 1.3.2
+2012-10-06 15:10:09 [INFO] Loading properties
+2012-10-06 15:10:09 [INFO] Default game type: SURVIVAL
+2012-10-06 15:10:09 [INFO] Generating keypair
+2012-10-06 15:10:10 [INFO] Starting Minecraft server on *:25565
+2012-10-06 15:10:10 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2012-10-06 15:10:10 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2012-10-06 15:10:10 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2012-10-06 15:10:10 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2012-10-06 15:10:10 [INFO] Preparing level "world"
+2012-10-06 15:10:10 [INFO] Preparing start region for level 0
+2012-10-06 15:10:10 [INFO] Done (0.442s)! For help, type "help" or "?"
+2012-10-06 15:10:14 [INFO] svanderlugt[/127.0.0.1:40943] logged in with entity id 384 at (-168.92621417067676, 58.0, 215.2067441269294)
+2012-10-06 16:03:14 [INFO] cheesebatt[/141.219.226.223:63891] logged in with entity id 100652 at (1307.1626650937458, 67.5625, -349.01050433658867)
+2012-10-06 16:07:54 [INFO] Munstermello[/141.219.226.153:62041] logged in with entity id 110457 at (-201.48688877361778, 24.0, 415.8561766632893)
+2012-10-06 16:19:47 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-10-06 16:19:55 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-10-06 16:40:22 [INFO] Munstermello lost connection: disconnect.quitting
+2012-10-06 16:44:18 [INFO] cheesebatt[/141.219.226.223:63925] logged in with entity id 171401 at (1306.5, 67.0, -350.5)
+2012-10-06 16:44:22 [INFO] svanderlugt[/127.0.0.1:41153] logged in with entity id 171612 at (-561.1964692739573, 61.0, 863.2655751144176)
+2012-10-06 16:44:31 [INFO] <cheesebatt> go the fuck to sleep
+2012-10-06 19:03:59 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-10-06 19:04:38 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-10-06 21:14:21 [INFO] cheesebatt[/141.219.226.67:50899] logged in with entity id 331242 at (1313.8791649986495, 62.356748202021386, -485.4858485013374)
+2012-10-06 21:51:32 [INFO] cheesebatt lost connection: disconnect.quitting
+2012-10-07 11:31:42 [INFO] svanderlugt[/127.0.0.1:50091] logged in with entity id 353880 at (-529.1685452826897, 67.0, 894.9655928751448)
+2012-10-07 14:03:00 [INFO] svanderlugt lost connection: disconnect.quitting
+2012-10-07 14:37:51 [INFO] Stopping the server
+2012-10-07 14:37:51 [INFO] Stopping server
+2012-10-07 14:37:51 [INFO] Saving players
+2012-10-07 14:37:51 [INFO] Saving worlds
+2012-10-07 14:37:51 [INFO] Saving chunks for level 'world'/Overworld
+2012-10-07 14:37:51 [INFO] Saving chunks for level 'world'/Nether
+2012-10-07 14:37:51 [INFO] Saving chunks for level 'world'/The End
